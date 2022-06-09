@@ -1,0 +1,82 @@
+2022-06-08T07:32:07+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:32:30+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:32:39+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:32:39+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:32:56+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:33:11+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:33:12+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:34:52+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:35:02+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:35:02+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
+2022-06-08T07:38:55+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php:26
+Stack trace:
+#0 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(2313): include_once()
+#1 G:\XAMPP\htdocs\wp\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 G:\XAMPP\htdocs\wp\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in G:\XAMPP\htdocs\wp\wp-content\plugins\static-html-output-6.6.21\static-html-output-plugin.php on line 26
+
